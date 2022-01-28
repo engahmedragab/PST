@@ -24,5 +24,38 @@
     <ClCompile Include="codeforces\A - Watermelon.cpp">
       <Filter>codeforces</Filter>
     </ClCompile>
+    <ClCompile Include="A. Vanya and Fence.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="A. Anton and Danik.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="A. Team.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="A. Beautiful Matrix.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="A. Gravity Flip.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="A. Petya and Strings.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="A. Boy or Girl.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="A. Word.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="A. Magnets.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="2D Array - DS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="B. Sum of Digits.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
