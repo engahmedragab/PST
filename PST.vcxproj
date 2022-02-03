@@ -143,14 +143,27 @@
     <ClCompile Include="2D Array - DS.cpp" />
     <ClCompile Include="A. Anton and Danik.cpp" />
     <ClCompile Include="A. Beautiful Matrix.cpp" />
+    <ClCompile Include="A. Black Square.cpp" />
     <ClCompile Include="A. Boy or Girl.cpp" />
+    <ClCompile Include="A. Buy a Shovel.cpp" />
+    <ClCompile Include="A. Colorful Stones.cpp" />
+    <ClCompile Include="A. Die Roll.cpp" />
+    <ClCompile Include="A. Games.cpp" />
     <ClCompile Include="A. Gravity Flip.cpp" />
+    <ClCompile Include="A. Is your horseshoe on the other hoof.cpp" />
     <ClCompile Include="A. Magnets.cpp" />
+    <ClCompile Include="A. Night at the Museum.cpp" />
     <ClCompile Include="A. Petya and Strings.cpp" />
+    <ClCompile Include="A. Police Recruits.cpp" />
+    <ClCompile Include="A. Sereja and Dima.cpp" />
+    <ClCompile Include="A. Shaass and Oskols.cpp" />
+    <ClCompile Include="A. Stones on the Table.cpp" />
     <ClCompile Include="A. Team.cpp" />
     <ClCompile Include="A. Vanya and Fence.cpp" />
     <ClCompile Include="A. Word.cpp" />
+    <ClCompile Include="B. Prison Transfer.cpp" />
     <ClCompile Include="B. Sum of Digits.cpp" />
+    <ClCompile Include="C. Yet Another Array Restoration.cpp" />
     <ClCompile Include="codeforces\A - Theatre Square.cpp" />
     <ClCompile Include="codeforces\A - Watermelon.cpp" />
   </ItemGroup>

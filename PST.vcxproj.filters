@@ -57,5 +57,44 @@
     <ClCompile Include="B. Sum of Digits.cpp">
       <Filter>codeforces</Filter>
     </ClCompile>
+    <ClCompile Include="C. Yet Another Array Restoration.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="A. Sereja and Dima.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="A. Games.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="A. Night at the Museum.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="A. Black Square.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="A. Police Recruits.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="B. Prison Transfer.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="A. Stones on the Table.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="A. Buy a Shovel.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="A. Is your horseshoe on the other hoof.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="A. Colorful Stones.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="A. Die Roll.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="A. Shaass and Oskols.cpp">
+      <Filter>codeforces</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
